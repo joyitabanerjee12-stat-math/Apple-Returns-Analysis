@@ -15,3 +15,8 @@ This repository contains an analysis of Apple Inc. (AAPL) daily returns, compari
 ## How to Use
 1. View the Markdown report for results and interpretations.
 2. Open the Excel file to see calculations and formulas.
+
+## Acknowledgment
+This project was created for learning purposes with guidance from ChatGPT by OpenAI.
+Stock data was obtained from Yahoo Finance.
+All analysis and interpretation were done in Microsoft Excel.
